@@ -1,0 +1,10 @@
+.component-app {
+  /* margin: 170px 750px; */
+  background-color: rgb(96, 172, 249);
+  width: 500px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border-radius: 20px;
+}
